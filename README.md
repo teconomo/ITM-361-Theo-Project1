@@ -7,6 +7,6 @@ There are 4 distinct aspects.
 
 <ul>
 <li>-The main "HOME" page or "index.html"</li>
--The "RESUME" folder containing the resume page.
--The "FITNESS" folder containing my third creative page.
--The "PICTURES" folder containing any photos that were needed 
+<li>-The "RESUME" folder containing the resume page.</li>
+<li>-The "FITNESS" folder containing my third creative page.</li>
+<li>-The "PICTURES" folder containing any photos that were needed </li>
