@@ -29,6 +29,7 @@ header {
 footer {
 	text-align: center;
 	padding: 2em;
+	font-size: 1em;
 }
 
 h2 {
@@ -38,10 +39,16 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	text-align: center;
+	font-size: 1.25em;
+}
+
 p {
 	padding-left: 1em;
 	padding: 1em;
 	text-align: center;
+	font-size: 1em;
 }
 
 img {
@@ -49,6 +56,11 @@ img {
 	margin: auto;
 	max-width: 75%;
 	max-height: auto;
+	padding: .4em;
+	background-color: #778899;
+	border-style: outset;
+	border-color:#2F4F4F;
+	border-width: .25em;
 }
 
 ul.resumeulmain {
@@ -58,11 +70,20 @@ ul.resumeulmain {
 
 .resumeul-contact {
 	text-align: center;
+	list-style-type: none;
 }
 
 .genrelist {
-
+	text-align: center;
+	padding: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: .2em;
+	border-color: #2F4F4F;
+	background-color: maroon;
 }
+
 
 
 /* --NAV-- */
