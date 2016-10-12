@@ -6,6 +6,8 @@ CSS File Extension
 /* --RESET-- */
 *{margin: 0;padding: 0;}
 
+/* --MAIN BLOCKS-- */
+
 body {
 	background-color: #FFEBCD;
 	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -121,5 +123,3 @@ nav li a:hover {
 	max-width: auto;
 	max-height: auto;
 }
-
-/* --CLASSES-- */
