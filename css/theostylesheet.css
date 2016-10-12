@@ -33,20 +33,34 @@ h2 {
 	color: #800000;
 	padding: 1em;
 	font-size: 1.75em;
+	text-align: center;
 }
 
 p {
 	padding-left: 1em;
 	padding: 1em;
+	text-align: center;
 }
 
 img {
 	display: block;
 	margin: auto;
 	max-width: 75%;
-	max-height: 75%;
+	max-height: auto;
 }
 
+ul.resumeulmain {
+	margin-left: 2em;
+	margin-right: auto;
+}
+
+.resumeul-contact {
+	text-align: center;
+}
+
+.genrelist {
+
+}
 
 
 /* --NAV-- */
@@ -94,12 +108,18 @@ nav li a:hover {
 	font-size: 1.75em;
 }
 
-#mepic {
+#youtubevid1 {
 	display: block;
-	margin: auto;
+	text-align: center;
 	max-width: 100%;
-	height: 100%;
-	padding-bottom: 2em;
+	height: auto;
+}
+
+#youtubevid {
+	text-align: center;
+	width: 75%;
+	max-width: auto;
+	max-height: auto;
 }
 
 /* --CLASSES-- */
