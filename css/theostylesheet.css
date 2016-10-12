@@ -84,6 +84,11 @@ ul.resumeulmain {
 	background-color: maroon;
 }
 
+li.job {
+	color: maroon;
+	font-size: 1.175em;
+	list-style-type: none;
+}
 
 
 /* --NAV-- */
