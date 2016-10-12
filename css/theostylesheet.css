@@ -8,5 +8,92 @@ CSS File Extension
 
 body {
 	background-color: #FFEBCD;
+	font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 	overflow-x: hidden;
+
 }
+
+header {
+	color: #800000;
+	text-align: center;
+	margin-bottom: 3em;
+	font-size: 1.25em;
+	background-color: #778899;
+	border-style: outset;
+	border-color:#2F4F4F;
+	border-width: .75em;
+}
+
+footer {
+	text-align: center;
+	padding: 2em;
+}
+
+h2 {
+	color: #800000;
+	
+}
+
+img {
+	display: block;
+	margin: auto;
+	max-width: 75%;
+	max-height: 75%;
+}
+
+
+
+/* --NAV-- */
+
+nav {
+	padding:.6em;
+	text-align: center;
+	margin-top: .8em;
+}
+
+nav li {
+	display:inline-block;
+}
+
+nav li a {
+	font-family:Arial;
+	font-size:.75em;
+	text-decoration: none;
+	float:left;
+	padding:.625em;
+	background-color: #333333;
+	color:#ffffff;
+	border-bottom:.0625em;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+}
+
+nav li a:hover {
+	background-color:#9B1C26;
+	padding-bottom:.75em;
+	border-bottom:.125em;
+	border-bottom-color:#000000;
+	border-bottom-style:solid;
+	margin:-.0625em;
+}
+
+/* END NAV */
+
+/* --IDs-- */
+
+#theo {
+	text-align: center;
+	padding: 1em;
+	font-family:  "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif;
+	font-size: 1.75em;
+}
+
+#mepic {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	height: 100%;
+	padding-bottom: 2em;
+}
+
+/* --CLASSES-- */
