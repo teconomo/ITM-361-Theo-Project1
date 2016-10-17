@@ -63,6 +63,11 @@ img {
 	border-width: .25em;
 }
 
+ol {
+	margin-left: 2em;
+	margin-right: auto;
+}
+
 ul.resumeulmain {
 	margin-left: 2em;
 	margin-right: auto;
